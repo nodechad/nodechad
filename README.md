@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋
+
+This is nobu's alt coding account :) hehe
+
+![Nanami](https://media.giphy.com/media/bfEOX1UuyCqVq/giphy.gif)
 
 <!--
 **nodechad/nodechad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
